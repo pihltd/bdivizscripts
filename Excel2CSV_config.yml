@@ -1,0 +1,4 @@
+excelfiles:
+  - 'C:\Users\pihltd\Documents\modeltest\bdiviz\phs000720_CCDI_Study_Manifest.xlsx'
+  - 'C:\Users\pihltd\Documents\modeltest\bdiviz\phs003519_CCDI_Study_Manifest.xlsx'
+outputpath: 'C:\Users\pihltd\Documents\modeltest\bdiviz\'
