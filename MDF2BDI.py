@@ -58,6 +58,8 @@ def main(args):
         jsonobj = json.dumps(bdijson, indent=4)
         with open(configs['jsonfile'], 'w') as f:
             f.write(jsonobj)
+            
+        
 
 
 

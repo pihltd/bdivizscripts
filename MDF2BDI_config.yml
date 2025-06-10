@@ -2,3 +2,4 @@ mdffiles:
   - "https://raw.githubusercontent.com/CBIIT/cds-model/refs/heads/6.0.4/model-desc/cds-model.yml"
   - "https://raw.githubusercontent.com/CBIIT/cds-model/refs/heads/6.0.4/model-desc/cds-model-props.yml"
 jsonfile: 'C:\Users\pihltd\Documents\modeltest\bdiviz\cds_6_0_4.json'
+csvfile: 'C:\Users\pihltd\Documents\modeltest\bdiviz\cds_6_0_4.csv'
